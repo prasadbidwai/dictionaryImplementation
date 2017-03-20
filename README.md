@@ -9,7 +9,7 @@ $ git clone https://github.com/prasadbidwai/dictionaryImplementation.git
 
 $ mvn clean package
 
-$ java -jar target/
+$  java -cp target/dictionary-api-1.0-SNAPSHOT.jar com.upsight.codequiz.DictionaryDemo
 
 
 
